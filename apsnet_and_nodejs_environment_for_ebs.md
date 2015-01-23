@@ -45,7 +45,7 @@ After generating the public, open Putty software and at the ssh section save you
 
 
 
-![](putty.png)
+![](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10406512_921878334511620_6985504713214886103_n.jpg?oh=4832f771a3177c0bb767d53444074b89&oe=5563EF8B&__gda__=1428469217_b31d01f4f9c9f085861560a418a5e921)
 
 
 And then add  autologin "root" to "Connections > Data > Auto-login username".
