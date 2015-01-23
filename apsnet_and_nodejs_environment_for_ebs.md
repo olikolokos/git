@@ -52,7 +52,7 @@ And then add  autologin "root" to "Connections > Data > Auto-login username".
 
 
 
-![](Root.png)
+![](https://scontent-a-gru.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/10931333_921873294512124_2546614696336870759_n.jpg?oh=b5a3fbc4c48f04af8120c6c30193914e&oe=55281DED)
 
 For the final step, add the ip address or the servername to "HostName" field(22 is the default port).
 
