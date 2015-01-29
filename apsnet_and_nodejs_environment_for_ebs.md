@@ -1,44 +1,39 @@
-### # Asp.net and Node environment for EBS
+# Asp.net and Node environment for EBS
 
 #### There’s a few things you must know before we start.
 
+
+
+
 *The asp.net environment will be avaliable for 173 days, because it is a trial version.*
+
 
 *You'll have to use your domain credentials to  access IIS server and SQL server (Mail Helpdesk asking for permissions).*
 
+
 *you're not allowed to use any kind of piracy.*
 
-**How to access the server:**
+#### How to access the server.
 
-You can use Windows built-in software for remote desktop access, or you can even download a express version of SQL management tool and IIS remote management tool, the servername is : POMPEII-SERVER or you can access it by the ip address: 192.168.150.27
-
-
-
-* 
-[IIS management Rremote administration](http://www.microsoft.com/en-us/download/details.aspx?id=41177)
-
-
-* 
-[Sql Server managemant Studio Express](http://www.microsoft.com/en-us/download/details.aspx?id=8961)
-
-**What do we have in this server?**
+You can use Windows built-in software for remote desktop access, or you can even download a express version of [Sql Server managemant Studio ](http://www.microsoft.com/en-us/download/details.aspx?id=8961) and [IIS management Rremote administration](http://www.microsoft.com/en-us/download/details.aspx?id=41177), the servername is : POMPEII-SERVER or you can access it by the ip address: 192.168.150.27
+####  What This server has?
 
 This server has a SQL server, IIS server, GIT and net framework4.5.
 
-**What about the linux server?**
+#### What about the linux server?
 
 A Mysql server, an Apache server , php modules, NodeJS modules, GIT , Docker and MongoDB.
 
-**How do i Access this server?**
+#### How do i Access this server?
 
 to access this server you'll have to  mail helpdesk with your public  ssh key, if you are using **Putty** ([Putty Download](http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)) you'll have to follow a few steps:
 
 First of all download [PuttyGen](http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe)
-and generate a 1024 bits key like the image below
+Execute generate a 1024 bits key like the image below
 
 ![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10923627_921873291178791_5184804320464515594_n.jpg?oh=6819f19ec264efe57c2203c8883e875b&oe=5522539F&__gda__=1432331303_25cc43c0ae4cfffb183cb52a09d7d9f8)
 
-After generating the public, open Putty software and at the ssh section insert your private key to "Private key file authentication" field.
+After generating the public, open Putty software and at the ssh section save you private and add it to Putty.
 
 
 
