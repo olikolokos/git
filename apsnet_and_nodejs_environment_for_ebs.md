@@ -1,19 +1,14 @@
-# Asp.net and Node environment for EBS
+### # Asp.net and Node environment for EBS
 
 #### There’s a few things you must know before we start.
 
-
-
-
 *The asp.net environment will be avaliable for 173 days, because it is a trial version.*
-
 
 *You'll have to use your domain credentials to  access IIS server and SQL server (Mail Helpdesk asking for permissions).*
 
-
 *you're not allowed to use any kind of piracy.*
 
-#### How to access the server.
+**How to access the server:**
 
 You can use Windows built-in software for remote desktop access, or you can even download a express version of SQL management tool and IIS remote management tool, the servername is : POMPEII-SERVER or you can access it by the ip address: 192.168.150.27
 
@@ -26,15 +21,15 @@ You can use Windows built-in software for remote desktop access, or you can even
 * 
 [Sql Server managemant Studio Express](http://www.microsoft.com/en-us/download/details.aspx?id=8961)
 
-####  What do we have in this server?
+**What do we have in this server?**
 
 This server has a SQL server, IIS server, GIT and net framework4.5.
 
-#### What about the linux server?
+**What about the linux server?**
 
 A Mysql server, an Apache server , php modules, NodeJS modules, GIT , Docker and MongoDB.
 
-#### How do i Access this server?
+**How do i Access this server?**
 
 to access this server you'll have to  mail helpdesk with your public  ssh key, if you are using **Putty** ([Putty Download](http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)) you'll have to follow a few steps:
 
