@@ -39,7 +39,7 @@ A Mysql server, an Apache server , php modules, NodeJS modules, GIT , Docker and
 to access this server you'll have to  mail helpdesk with your public  ssh key, if you are using **Putty** ([Putty Download](http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)) you'll have to follow a few steps:
 
 First of all download [PuttyGen](http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe)
-and execute generate a 1024 bits key like the image below
+and generate a 1024 bits key like the image below
 
 ![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10923627_921873291178791_5184804320464515594_n.jpg?oh=6819f19ec264efe57c2203c8883e875b&oe=5522539F&__gda__=1432331303_25cc43c0ae4cfffb183cb52a09d7d9f8)
 
