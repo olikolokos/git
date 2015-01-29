@@ -4,24 +4,26 @@
 
 
 
-*
+
 *The asp.net environment will be avaliable for 173 days, because it is a trial version.*
 
-*
+
 *You'll have to use your domain credentials to  access IIS server and SQL server (Mail Helpdesk asking for permissions).*
 
-*
+
 *you're not allowed to use any kind of piracy.*
 
 #### How to access the server.
 
-You can use Windows built-in software for remote desktop access, or you can even download a express version of SQL management tool and the IIS remote management tool,  the servername is : POMPEII-SERVER or you can access it by the ip 192.168.150.27
+You can use Windows built-in software for remote desktop access, or you can even download a express version of SQL management tool and IIS remote management tool, the servername is : POMPEII-SERVER or you can access it by the ip address: 192.168.150.27
 
-*
 
+
+* 
 [IIS management Rremote administration](http://www.microsoft.com/en-us/download/details.aspx?id=41177)
 
-*
+
+* 
 [Sql Server managemant Studio Express](http://www.microsoft.com/en-us/download/details.aspx?id=8961)
 
 ####  What This server has?
